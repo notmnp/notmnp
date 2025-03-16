@@ -10,13 +10,14 @@
 ☁️ **Tools:** AWS, Docker, Git, Webpack, Jupyter  
 
 ## 👨‍💻 Experience  
+🧠 **AI Software Engineering Intern – 8090 Solutions (Summer 2025)**  
 🛩️ **Software Engineering Intern – Pratt & Whitney (Fall 2024)**  
 🏦 **Software Engineering Intern – TD Bank (Winter 2024)**  
 
 ## 🔬 Notable Projects  
 📚 **[Course Clutch](https://www.courseclutch.com/)** – Helping 80,000+ students secure high-demand courses  
 🚌 **[Predictive Transit Delay Model](https://github.com/WAT-ai/DelayNoMore)** – AI-powered transit delay predictions  
-🧠 **[Minimax AI - Connect 4](https://notmnp.github.io/#/play)** – An AI opponent that almost never loses  
+4️⃣ **[Minimax AI - Connect 4](https://notmnp.github.io/#/play)** – An AI opponent that almost never loses  
 
 ## 🌱 What I'm Up To  
 - Experimenting with **LLMs & AI automation**  
@@ -27,4 +28,4 @@
 ## 📬 Let’s Connect!  
 ✉️ [Email](mailto:mpattni@uwaterloo.ca) | 🔗 [LinkedIn](https://www.linkedin.com/in/pattni/) | 🌎 [Portfolio](https://notmnp.github.io/)  
 
-_"The best way to predict the future is to create it." — Alan Kay_  
+_"The best way to predict the future is to invent it." — Alan Kay_  
